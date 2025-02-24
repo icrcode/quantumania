@@ -17,3 +17,21 @@ Um qubit é a unidade básica de informação quântica. Ele difere de um bit cl
 ## Começando com a Computação Quântica
 
 Este código segue a documentação da Microsoft sobre como iniciar na computação quântica. Para informações mais detalhadas, consulte a [Documentação de Computação Quântica da Microsoft](https://docs.microsoft.com/pt-br/quantum/).
+
+## Resultado Esperado
+
+```
+ Basis | Amplitude      | Probability | Phase
+ -----------------------------------------------
+  |00⟩ |  0.7071+0.0000𝑖 |    50.0000% |   0.0000
+  |11⟩ |  0.7071+0.0000𝑖 |    50.0000% |   0.0000
+
+(Zero, Zero)
+Finished shot 1 of 1
+
+Q# simulation completed.
+```
+
+## Circuito Simulado
+
+![image](https://github.com/user-attachments/assets/ae6dbaf9-7630-4d39-a52e-261b548d1a94)
