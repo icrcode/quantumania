@@ -20,6 +20,8 @@ Este código segue a documentação da Microsoft sobre como iniciar na computaç
 
 ## Resultado Esperado
 
+Lembre-se de que, a cada execução, você atua como o observador, o que significa que haverá variação no resultado da sobreposição.
+
 ```
  Basis | Amplitude      | Probability | Phase
  -----------------------------------------------
